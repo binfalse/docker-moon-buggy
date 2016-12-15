@@ -3,6 +3,7 @@
 The Dockerfile in this repository compiles into a Docker image that includes the famous [moon-buggy game](http://www.seehuhn.de/pages/moon-buggy)!
 The main purpose of this project is of course fun, but I also use it for demonstrating Docker...
 
+![docker image for moon-buggy](https://binfalse.de/assets/media/pics/2016/moon-buggy.png)
 
 ## Get the image
 
